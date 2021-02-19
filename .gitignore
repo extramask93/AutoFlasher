@@ -1,0 +1,4 @@
+venv/*
+*.srec
+__pycache__/*
+.idea/*
